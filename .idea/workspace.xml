@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3fd98e8-cd0c-41f5-9065-fb323bbc5c3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HotelReservation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/Logistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/model/Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/model/Packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/model/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/repository/PackageRepository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/repository/PackageRepositoryImp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/Data/repository/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/src/dto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/test/tdd/Package_repository_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logistics/test/tdd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/TimeKepper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/models/Activity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/models/Role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/models/RoleName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/models/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/data/repositories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeKepper/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProject/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/100Days/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/100Days/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/account_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/bank/Bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/bank/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/bank/bank_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/sherif_class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/sherif_class/count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Account/sherif_class/sherif_single_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/Pig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/Sheep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/cow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Animal/goat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Banks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Car/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Car/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/Love_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/arithemetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/comparing_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/diameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/diameter_circumference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/divisible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/largest_smallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/longest_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/multiples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/palidronme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/pizzaChallange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/seperating_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/sum_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Chapter_Two/table_of_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/ChibuzorSnacks/Encrytion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/ChibuzorSnacks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/ChibuzorSnacks/largest_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/ChibuzorSnacks/over_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/cvalidator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/string_snack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/user_details_dicitionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Class/word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Ify_ssesment/ReverseArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Ify_ssesment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Ify_ssesment/additons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Ify_ssesment/arithemetic_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/check_called.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/divisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/even_numb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/less_than.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/Precious Snacks/smaller_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/array_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/assesment/PrintHello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/assesment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/chapterSix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/chapterSix/floor_ceil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/chapter_four/Specified_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/chapter_four/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/dog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/dog/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/dog/dogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/dog/pit_bull.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/dog/pugs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/new_directory/consensus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/new_directory/dir_2/unknown.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/new_directory/lovestory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/see_fifteen/elite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/file/see_fifteen/index2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/tutor/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/tutor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/src/tutor/sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Topaz/test/array_task_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/DTO/request/AccountRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/DTO/response/AccountResponse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/AccountType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Gender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Next_Of_Kin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/Next_Of_Kin_Relationship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/PersonalInformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/RelationShipsStaus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/StateType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/Model/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/repository/AccountRepositoryImp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Data/repository/AccountRepositoryInterface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Service/AccountServiceImpl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/Service/AccountServiceInterface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semiColonAssesment" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RW5aNxi5Y8zx0B1THS1FnPHW9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scissors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3fd98e8-cd0c-41f5-9065-fb323bbc5c3c" name="Changes" comment="" />
+      <created>1687353058782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687353058782</updated>
+      <workItem from="1687353064949" duration="101000" />
+      <workItem from="1687444848419" duration="463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
